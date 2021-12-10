@@ -1,0 +1,25 @@
+* {
+    background-color: silver;
+    text-align: center;
+}
+h1 {
+    font-family: Helvetica, sans-serif;
+    font-size: 35px;
+    color: mediumslateblue;
+}
+ul {
+    font-family: monospace, sans-serif;
+    font-size: 18px;
+    list-style-type: none;
+}
+li.inline {
+    display: inline;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+.entry-image {
+    width: 300px;
+    border-radius: 50px;
+}
